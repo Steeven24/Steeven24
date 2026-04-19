@@ -1,48 +1,57 @@
-# Steeven Loor — Software Developer
+# Hi there, I'm Steeven Loor 👋
 
-Backend development, Python automation, and scalable web applications.
+### Backend Developer | Python & FastAPI Specialist | Scalable Solutions
 
----
-
-## About
-
-I build practical, maintainable software focused on automation, data processing,
-and backend systems. My work spans from scripting repetitive workflows to designing
-REST APIs and full-stack web applications.
+I build practical, maintainable software focused on automation, data processing, and robust backend systems. My work spans from scripting repetitive workflows to designing high-performance REST APIs and scalable web applications.
 
 ---
 
-## Tech Stack
+### Tech Stack
 
-**Languages:** Python, JavaScript  
-**Backend:** Node.js, Express  
-**Frontend:** React  
-**Databases:** MySQL, MongoDB  
-**Tools:** Git, GitHub
+**Languages & Core**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
----
+**Backend & APIs**
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-## What I Work On
+**Databases**
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-- Automating repetitive tasks and workflows with Python
-- Building backend systems: APIs, authentication, database design
-- Developing full-stack web applications
-- Processing and structuring data efficiently
-
----
-
-## Currently Learning
-
-- Microservices and advanced backend architecture
-- System design and scalability patterns
-- Cloud deployment and infrastructure
+**Frontend & Tools**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## Contact
+### What I'm focused on
 
-- Portfolio: https://tranquil-babka-397276.netlify.app/
-- Upwork: https://www.upwork.com/freelancers/~01fabd49c91cdc8b24?mp_source=share
+- **Scalable Backends:** Designing APIs with FastAPI and Node.js using asynchronous patterns.
+- **Automation:** Streamlining repetitive tasks and complex workflows through Python scripting.
+- **System Design:** Currently deep-diving into microservices and cloud infrastructure.
+- **Data Integrity:** Building efficient database schemas with SQLAlchemy and Mongoose.
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Steeven24&show_icons=true&theme=tokyonight" alt="Steeven's GitHub Stats" />
+</p>
+
+---
+
+### Connect with me
+
+<p align="left">
+<a href="https://tranquil-babka-397276.netlify.app/" target="blank"><img src="https://img.shields.io/badge/Portfolio-0078D4?style=for-the-badge&logo=microsoft-edge&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.upwork.com/freelancers/~01fabd49c91cdc8b24" target="blank"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a>
+</p>
 
 ---
 
