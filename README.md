@@ -6,7 +6,9 @@ Backend development, Python automation, and scalable web applications.
 
 ## About
 
-I build practical, maintainable software focused on automation, data processing, and backend systems. My work spans from scripting repetitive workflows to designing REST APIs and full-stack web applications.
+I build practical, maintainable software focused on automation, data processing,
+and backend systems. My work spans from scripting repetitive workflows to designing
+REST APIs and full-stack web applications.
 
 ---
 
