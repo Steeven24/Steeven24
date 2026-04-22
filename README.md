@@ -53,7 +53,7 @@ I build practical, maintainable software focused on automation, data processing,
 ### Connect with me
 
 <p align="left">
-<a href="https://tranquil-babka-397276.netlify.app/" target="blank"><img src="https://img.shields.io/badge/Portfolio-0078D4?style=for-the-badge&logo=microsoft-edge&logoColor=white" alt="Portfolio" /></a>
+<a href="https://steeven-portfolio.netlify.app/" target="blank"><img src="https://img.shields.io/badge/Portfolio-0078D4?style=for-the-badge&logo=microsoft-edge&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.upwork.com/freelancers/~01fabd49c91cdc8b24" target="blank"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a>
 </p>
 
